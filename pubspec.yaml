@@ -1,0 +1,23 @@
+name: package_info_plus_module
+description: "JuneFlow Module"
+#publish_to: 'none'
+#repository: https://github.com/melodysdreamj/juneflow
+
+version: 0.0.1+1
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  go_router: ^13.2.0
+  june_flow_util:
+  package_info_plus: ^6.0.0 #@add
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
