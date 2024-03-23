@@ -1,7 +1,7 @@
 name: package_info_plus_module
-description: "JuneFlow Module"
+description: "JuneFlow Module for package_info_plus."
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneflow-songdo/package_info_plus_module
 
 version: 0.0.1+1
 
