@@ -1,5 +1,10 @@
 [![pub package](https://img.shields.io/pub/v/package_info_plus_module.svg)](https://pub.dartlang.org/packages/package_info_plus_module)
 
+<p>
+  <a href="https://github.com/melodysdreamj/juneflow">Juneflow</a> •
+  <a href="https://doc.juneflow.org/get-started">Documentation</a>
+</p>
+
 # package_info_plus_module
 It's a module of package_info_plus.
 
