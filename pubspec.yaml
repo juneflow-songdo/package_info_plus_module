@@ -3,7 +3,7 @@ description: "JuneFlow Module for package_info_plus."
 #publish_to: 'none'
 repository: https://github.com/juneflow-songdo/package_info_plus_module
 
-version: 0.0.1+1
+version: 0.0.1+2
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
