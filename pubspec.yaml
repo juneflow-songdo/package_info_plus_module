@@ -1,9 +1,9 @@
 name: package_info_plus_module
-description: "JuneFlow Module for package_info_plus."
+description: "this module is a part of the juneflow project, it provides a package_info_plus module for flutter project."
 #publish_to: 'none'
 repository: https://github.com/juneflow-songdo/package_info_plus_module
 
-version: 0.0.1+2
+version: 1.0.1
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
