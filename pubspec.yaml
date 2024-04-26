@@ -3,7 +3,7 @@ description: "this module is a part of the juneflow project, it provides a packa
 #publish_to: 'none'
 repository: https://github.com/juneflow-songdo/package_info_plus_module
 
-version: 1.0.1
+version: 1.0.2
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
@@ -11,9 +11,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  go_router: ^13.2.0
+  go_router:
   june_flow_util:
-  package_info_plus: ^6.0.0 #@add
+  package_info_plus: #@add
 
 dev_dependencies:
   flutter_test:
